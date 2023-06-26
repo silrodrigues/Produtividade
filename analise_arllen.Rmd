@@ -1,0 +1,41 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+##Analise banco de dados
+
+
+bla bla bla
+
+
+```{r}
+z=rnorm(100)
+plot(z)
+```
+
+
+
+```{r}
+library(vegan)
+x<-runif(10)
+```
+
+```{r}
+data(BCI)
+a<-specaccum(BCI,method = "random")
+plot(a)
+
+```
+
+Tarefa Arllen
+```{r}
+head(BCI)
+adonis2(BCI~prestondistr(x,))
+```
+
+
+```{r}
+plot(prestondistr(BCI))
+```
+
