@@ -9,7 +9,8 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Produtividade na Ciência
+Na pasta que o prof compartilhou tem uma reportagem sobre a rotina de pessoas de sucesso e uma dica que peguei foi: use a sua melhor hora pra resolver sua produtividade número 1 
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
