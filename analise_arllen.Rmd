@@ -13,7 +13,8 @@ bla bla bla
 z=rnorm(100)
 plot(z)
 ```
-
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
 
 
 ```{r}
