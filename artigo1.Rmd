@@ -39,3 +39,5 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 ## Criando um sub
 
 Eu to escrevendo aqui, mas to muito lenta.
+
+Vocês estão viajando nesse negocio de não aproveitar a ferramenta. Eu to aqui mostrando, então usem essa bagaça!!!!
